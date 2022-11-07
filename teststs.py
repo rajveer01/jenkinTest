@@ -1,3 +1,3 @@
 import os
-print(os.getenv("multi_lp"))
+print("Look, I have made fire: ", os.getenv("multi_lp"))
 print("hello world")
